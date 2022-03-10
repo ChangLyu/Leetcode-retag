@@ -193,7 +193,7 @@
 
 ###### 中等
 
-- [ ] [1353. 最多可以参加的会议数目](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
+- [x] [1353. 最多可以参加的会议数目](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
 - [ ] [307. 区域和检索 - 数组可修改](https://leetcode.com/problems/range-sum-query-mutable/)
 
 ###### 困难
